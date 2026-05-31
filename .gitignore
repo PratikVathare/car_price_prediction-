@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+.ipynb_checkpoints/
+ml_training/dataset/car_details.csv
+ml_training/models/
+
+# Node/React
+node_modules/
+dist/
+.eslintcache
+.vite/
+frontend/dist/
+
+# Docker & local Databases
+mysql_data/
+.docker-volumes/
+
+# IDE / Operating System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
